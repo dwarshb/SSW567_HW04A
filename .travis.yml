@@ -5,4 +5,4 @@ install:
   - pip install requests
 # command to run tests
 script:
-  - python -m unittest testGithub567.py
+  - python -m unittest testGitHub567.py
